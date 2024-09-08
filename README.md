@@ -25,7 +25,7 @@ I’m Diego Rojas, I born from Santa Cruz de la Sierra, Bolivia.<br>I currently 
 [![](https://visitcount.itsvg.in/api?id=diegorojasj&icon=2&color=6)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/diegorojasj) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/diegorojasj) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

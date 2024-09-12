@@ -1,11 +1,6 @@
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 📊 GitHub Stats:
 
-<h1 align="center">Github Metrics </h1>
-<p align="center">
-  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diegorojasj&theme=github_dark" />
-</p>
-
 | ![](https://github-readme-stats.vercel.app/api?username=diegorojasj&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&size_weight=0&count_weight=1) | ![](https://github-readme-streak-stats.herokuapp.com/?user=diegorojasj&theme=blue_navy&hide_border=false&size_weight=0&count_weight=1)<br/> |![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorojasj&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact&size_weight=0&count_weight=1)|
 |:---:|:---:|:---:|
 

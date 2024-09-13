@@ -9,10 +9,6 @@
 |:---:|:---:|:---:|
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=diegorojasj&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 💫 About Me:
 I’m Diego Rojas, I born from Santa Cruz de la Sierra, Bolivia.<br>I currently searching on programming jobs, find out new labor environment<br>and meet more people who share the same interests as me.<br>🔭 I’m currently working on Gometrixs.<br>👯 I’m looking to collaborate on create new systems.<br>🤝 I’m looking for help to measure and adapt to real situations.<br>🌱 I’m currently learning Data Science.<br>💬 Ask me about any doubt.<br>⚡ Fun fact: A thought experiment where a future superintelligent<br>AI could theoretically punish anyone who didn’t help bring it into <br>existence! While it's a bizarre idea, it sparks interesting<br>conversations about the potential unpredictability and ethical<br>dilemmas of superintelligent AI systems.
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->

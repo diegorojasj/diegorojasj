@@ -1,8 +1,12 @@
 <div align="center">
   
-# 👋 Hi, I'm Diego Rojas
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=%F0%9F%91%8B%20Hi,%20I%27m%20Diego%20Rojas&section=header&reversal=false&textBg=false&fontSize=50&fontColor=000000" />
+</div>
 
-### Full-Stack Developer | Cloud-Native Enthusiast | Open Source Contributor
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=%24+docker+compose+up+-d+life;Building+production-ready+systems+since+2022;React+%2B+TypeScript+%2B+Python+%2B+AWS;%24+kubectl+get+pods+--all-namespaces" alt="Typing SVG" /></a>
+</p>
 
 <p>
   <a href="https://linkedin.com/in/diegorojasj"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,6 +16,10 @@
 </p>
 
 </div>
+
+---
+
+## 🚀 About Me
 
 ```typescript
 const diego = {
@@ -24,11 +32,7 @@ const diego = {
 };
 ```
 
----
-
-## 🚀 About Me
-
-Passionate about building **scalable, production-ready applications** with a proven track record in microservices architecture and database optimization. I architect solutions that deliver real impact: 99.5% uptime systems, 75% faster APIs, and event-driven platforms processing 500+ daily transactions.
+**What I actually do day-to-day:** I write TypeScript and Python, deploy containers, optimize database queries, and try to keep systems running without surprises. I've gone from monoliths to microservices, from MySQL to MongoDB ReplicaSets, and from manual deploys to CI/CD pipelines. Still learning, still breaking things in staging.
 
 **Currently exploring:** Data Science & Machine Learning  
 **Open to:** Full-stack opportunities, contract work, and open-source collaboration
@@ -64,28 +68,61 @@ Passionate about building **scalable, production-ready applications** with a pro
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=diegorojasj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=diegorojasj&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorojasj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+[![Diego's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegorojasj&theme=gotham&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🏆 Featured Projects
 
-**🌾 AgriLynx Pro** — Agricultural management system with Kubernetes microservices, MongoDB ReplicaSet, and RBAC managing 60+ permissions  
-*React • TypeScript • FastAPI • MongoDB • Kubernetes*
-
-**✈️ Reservation Systems** — Full-stack booking platforms with GDS API integration processing 500+ daily transactions  
-*React • Next.js • Node.js • PHP*
-
-**💼 Enterprise CRM** — Modular accounting and CRM solution serving 50+ users with automated financial reporting  
-*Laravel • React • Docker*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 AgriLynx Pro</h3>
+      <p>Agricultural management system — inventory flow, production tracking across multiple warehouses.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      </p>
+      <p><sub>K8s microservices · MongoDB ReplicaSet · RBAC (60+ permissions) · Event-driven architecture</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ Reservation Systems</h3>
+      <p>Airline, hotel & insurance booking platforms with real GDS API integrations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      </p>
+      <p><sub>GDS API integration · Multi-project codebase · MySQL optimization</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Enterprise CRM</h3>
+      <p>Modular accounting, agent management & CRM system for 50+ internal users.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <p><sub>Automated financial reporting · CI/CD with GitHub Actions · RESTful API sync</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔬 What's Next</h3>
+      <p>Currently diving into Data Science & Machine Learning. Building, learning, shipping.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <p><sub>Open to full-time · contract · open-source collaboration</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 

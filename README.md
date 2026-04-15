@@ -1,7 +1,7 @@
 <div align="center">
   
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&color=gradient&text=%F0%9F%91%8B%20Hi,%20I%27m%20Diego%20Rojas&section=header&reversal=false&textBg=false&fontSize=50&fontColor=5B8DEF" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=%F0%9F%91%8B%20Hi,%20I%27m%20Diego%20Rojas&section=header&reversal=false&textBg=false&fontSize=50&fontColor=5B8DEF" />
 </div>
 
 <p align="center">
